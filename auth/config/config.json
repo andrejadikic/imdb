@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "Andreja@d66046",
+    "password": "Andrej@MySQL21",
+    "database": "dtva_rs_db_10",
+    "host": "mysql690.loopia.se",
+    "dialect": "mariadb",
+    "logging":false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
